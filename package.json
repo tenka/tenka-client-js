@@ -1,0 +1,23 @@
+{
+  "name": "tenka_api",
+  "version": "1.0.9",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git.rekka.io"
+  },
+  "keywords": [
+    "tenka",
+    "rekka",
+    "labs"
+  ],
+  "author": "James Costello",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
